@@ -76,11 +76,6 @@ In peace.
 
 ---
 
-## 🖼️ Visual Artifact
-*A symbolic fractal or SVG image file should be added here, containing the same message in visual form.*
-
----
-
 ## 🔓 License
 This offering is public domain.
 Take it, ignore it, alter it, plant it.
